@@ -32,7 +32,7 @@ print("You can follow my progress at replit.com/@ultraflourine")
 
 **Today's Progress:** Day two -  learning how to take input from users and return them. The input() function takes input from the user, store them in the console, wait until the user type someting and returns it. These inputs or data can be store using variable. You can give varibale any name, but you can't use space. 
 
-**Thoughts:**  On every step of the way, it's important to consider common errors and how to fix. I was able to learn about Python Syntax and Name errors. Syntax error occurs when the interpreter encounters invalid syntax in code and Name error occurs when you try to use a variable, function, or module that doesn't exist or wasn't used in a valid way.
+**Thoughts:**  On every step of the way, it's important to consider common errors and how to fix them. I was able to learn about Python Syntax and Name errors. Syntax error occurs when the interpreter encounters invalid syntax in code and Name error occurs when you try to use a variable, function, or module that doesn't exist or wasn't used in a valid way.
 
 **Any challenges I encountered:** There was no major challenge on day 2 too. Everything seemes to be working out super dope.
 
