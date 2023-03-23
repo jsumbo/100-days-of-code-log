@@ -28,7 +28,7 @@ print("You can follow my progress at replit.com/@ultraflourine")
 
 ```
 
-## Day 21: March 1, Thursday 
+## Day 2: March 16, Thursday 
 
 **Today's Progress:** Day two -  learning how to take input from users and return them. The input() function takes input from the user, store them in the console, wait until the user type someting and returns it. These inputs or data can be store using variable. You can give varibale any name, but you can't use space. 
 
@@ -68,5 +68,36 @@ print ("You're probably living in the amazing")
 print (yourAddress)
 print() 
 print ("Have a great day!")
+
+```
+
+## Day 3: March 17, Friday 
+
+**Today's Progress:** Day three was on Concatenation. With the powers of concatenation I made a whacky recipe maker 🥓🍝🥑 ! 
+
+**Thoughts:** Concatenation is a really big workd. But all it iteraly mean is to join or combine words (stings)
+
+**Any challenges I encountered:** I am having fun on this journey so far, so no challenge to report yet. 
+
+**Link(s) to work:** 
+
+[day 3_100 days](https://replit.com/@ultraflourine/day-3100-days?v=1)
+
+**Code snippets or screenshots of my work:** 
+
+```python
+Day 2 challenge - Recipe Generator
+
+# comment
+food = input("Name a type of food: ")
+plant = input("Name a plant: ")
+cookingType = input("What is a way to cook something?")
+burntFood = input("How do you describe burnt food?")
+householdItem = input("Name something in your house: ")
+
+print()
+print("Tonight's dinner:")
+
+print("For dinner you should make", cookingType, food, "with", burntFood, plant, "on a plate of", householdItem)
 
 ```
