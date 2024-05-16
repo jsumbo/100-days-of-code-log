@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log 
 
-## Day 1: March 15, Wednesday
+## Day one: March 15, Wednesday
 
 **Today's Progress:** Today was about learning how to use and navigate the Replit IDE and workspace. I covered some common coding problems in Python and wrote my very first statement - the print statement.
 
@@ -28,7 +28,7 @@ print("You can follow my progress at replit.com/@ultraflourine")
 
 ```
 
-## Day 2: March 16, Thursday 
+## Day Two: March 16, Thursday 
 
 **Today's Progress:** Day two -  learning how to take input from users and return them. The input() function takes input from the user, store them in the console, wait until the user type someting and returns it. These inputs or data can be store using variable. You can give varibale any name, but you can't use space. 
 
@@ -71,7 +71,7 @@ print ("Have a great day!")
 
 ```
 
-## Day 3: March 17, Friday 
+## Day Three: March 17, Friday 
 
 **Today's Progress:** Day three was on Concatenation. With the powers of concatenation I made a whacky recipe maker 🥓🍝🥑 ! 
 
